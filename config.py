@@ -4,3 +4,5 @@ pytesseract_path = r"C:\Users\Admin\AppData\Local\Tesseract-OCR\tesseract.exe"
 # added new line successfully
 
 # one more new line added successfully
+
+# I have done few changes in the file
